@@ -1,0 +1,7 @@
+@inproceedings{REPO311,
+    author = "Qi, Charles R and Su, Hao and Mo, Kaichun and Guibas, Leonidas J",
+    booktitle = "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    pages = "652--660",
+    title = "{PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation}",
+    year = "2017"
+}
